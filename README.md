@@ -83,8 +83,3 @@ pytest
 ## License
 
 MIT.
-# cases-faker
-# cases-faker
-# cases-faker
-# cases-faker
-# cases-faker
